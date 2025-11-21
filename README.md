@@ -1,3 +1,3 @@
-# Lab Assignment 5
+# Digital Logic Verification
 
-Click `Code` > `Codespaces` > `Create codespace on main` to start coding!
+In this lab, I designed and verified a range of digital logic modules using SystemVerilog, focusing on both debugging and rigorous functional testing. I developed comprehensive testbenches to identify logic bugs in several obfuscated combinational modules, ensuring accurate detection of faulty behavior through structured PASS/FAIL signaling. I then created unified verification environments to validate multiple implementations of one-hot encoders, one-hot multiplexers, and 16-bit multipliers, distinguishing correct designs from incorrect ones purely through behavioral testing.
