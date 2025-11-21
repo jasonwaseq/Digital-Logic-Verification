@@ -1,0 +1,7 @@
+{
+    "top": "testbench",
+    "files":
+    ["part1/gray2bin/gray2bin.sv"
+    ,"part1/gray2bin/testbench.sv"
+    ]
+}
