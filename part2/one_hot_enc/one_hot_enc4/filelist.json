@@ -1,0 +1,7 @@
+{
+    "top": "testbench",
+    "files":
+    ["part2/one_hot_enc/one_hot_enc4/one_hot_enc.sv"
+    ,"part2/one_hot_enc/testbench.sv"
+    ]
+}
